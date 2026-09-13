@@ -11,7 +11,7 @@ Source-first tools for understanding pen input and improving digital drawing.
 the shared library directly; drawing applications can integrate that same pinned
 source. No required DLL, driver, service or runtime download.
 
-The [InfiniPaint fork](https://github.com/alexiokay/infinipaint-ARM64-Windows/tree/graphite-ui)
+The [InfiniPaint fork](https://github.com/alexiokay/infinipaint-Custom/tree/graphite-ui)
 is an external consumer. The [upstream integration proposal](https://github.com/ErrorAtLine0/infinipaint/pull/98)
 is a draft, not an endorsement or merged upstream feature. InfiniPaint remains the
 work of its original creator, [ErrorAtLine0](https://github.com/ErrorAtLine0/infinipaint).
@@ -21,7 +21,7 @@ work of its original creator, [ErrorAtLine0](https://github.com/ErrorAtLine0/inf
 - Integrate: [library API and example](https://github.com/PenTraceTools/pen-stabilizer#native-integration).
 - Measure: [PenTraceLab instructions](https://github.com/PenTraceTools/pen-trace-lab).
 - Update safely: [source versioning workflow](https://github.com/PenTraceTools/.github/blob/main/VERSIONING.md).
-- Compare InfiniPaint pressure/rendering stages: [replay utility](https://github.com/alexiokay/infinipaint-ARM64-Windows/blob/graphite-ui/docs/BRUSH_PIPELINE.md).
+- Compare InfiniPaint pressure/rendering stages: [replay utility](https://github.com/alexiokay/infinipaint-Custom/blob/graphite-ui/docs/BRUSH_PIPELINE.md).
 
 Current shared position core: **v0.1.0 / algorithm revision 1**, pinned by consumers.
 App versions/releases are separate. Check the selected app branch's dependency pin
