@@ -22,6 +22,7 @@ work of its original creator, [ErrorAtLine0](https://github.com/ErrorAtLine0/inf
 - Measure: [PenTraceLab instructions](https://github.com/PenTraceTools/pen-trace-lab).
 - Update safely: [source versioning workflow](https://github.com/PenTraceTools/.github/blob/main/VERSIONING.md).
 - Compare InfiniPaint pressure/rendering stages: [replay utility](https://github.com/alexiokay/infinipaint-Custom/blob/graphite-ui/docs/BRUSH_PIPELINE.md).
+- View real-device examples: [Test 6 comparison gallery and SVGs](https://github.com/PenTraceTools/pen-trace-lab/tree/main/docs/comparisons/test6), including settings, limitations and the future chart protocol.
 
 Current shared position core: **v0.1.0 / algorithm revision 1**, pinned by consumers.
 App versions/releases are separate. Check the selected app branch's dependency pin
